@@ -138,7 +138,7 @@ S1# configure terminal > interface vlan 1 > ip adress 192.168.1.2 255.255.255.0
 
 ![Часть12](https://github.com/user-attachments/assets/84b036ca-54cc-4c1a-8050-51cb777815f2)
 
-- Cспользуйте параметр logging synchronous:
+- Используем параметр logging synchronous:
 
 S1(config)# line con 0
 S1(config-line)# logging synchronous 
