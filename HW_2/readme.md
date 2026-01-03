@@ -21,4 +21,15 @@
 
 ## ЗАДАЧА 1. Создание и настройка сети
 
-### Шаг 1. Подключите сеть в соответствии с топологией
+### Шаг 1. Подключаем сеть в соответствии с топологией
+
+![1](https://github.com/user-attachments/assets/12de572d-d889-44d7-8d58-df3b9a4f0dd8)
+
+### Шаг 2. Настраиваем узлы ПК
+
+![2](https://github.com/user-attachments/assets/abcb533e-421f-4f0f-94fd-97168d7c11e9)
+
+![3](https://github.com/user-attachments/assets/22e5c40e-a992-4665-987e-d4409a6d4f51)
+
+
+
