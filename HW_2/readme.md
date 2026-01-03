@@ -47,7 +47,13 @@
 
 ![5](https://github.com/user-attachments/assets/018f41b2-614c-41ea-8c30-298c68c15022)
 
+-Назначаем cisco в качестве паролей консоли и VTY
 
+-Назначаем cisco в качестве пароля доступа к привилегированному режиму EXEC
+
+![7](https://github.com/user-attachments/assets/82819efd-d1ba-4084-b3d1-2eb7e9e86e55)
+
+![8](https://github.com/user-attachments/assets/5101e3b9-e386-4b2c-8a37-08b2462344cb)
 
 
 
