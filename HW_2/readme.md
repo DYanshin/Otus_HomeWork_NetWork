@@ -80,7 +80,17 @@
 
 ![11](https://github.com/user-attachments/assets/b96ec74b-0aa8-4d63-8d2c-46365856c1d3)
 
+### Шаг 2. Смотрим таблицу МАС-адресов коммутатора:
 
+-Подключаемся к коммутатору S2 через консоль и входим в привилегированный режим EXEC:
+
+![12](https://github.com/user-attachments/assets/77830484-1bd3-476a-bddc-d04408f6ab39)
+
+-В привилегированном режиме EXEC вводим команду show mac address-table:
+
+![13](https://github.com/user-attachments/assets/d9f8365d-1a0d-4438-8c69-81fd14eb4d5b)
+
+В таблице MAC-адресов содержаться два адреса: коммутатора S1 и PC0
 
 
 
