@@ -70,5 +70,18 @@
  
  MAC-адрес компьютера PC1: 0003.E467.E8E6
 
--Подключаемся к коммутаторам S1 и S2 через консоль и вводим,,,,,,,,,,,,,,,,,,,,,,,,,,, команду show interface F0/1 на каждом коммутаторе
+-Подключаемся к коммутаторам S1 и S2 через консоль и вводим команду show interface F0/1 на каждом коммутаторе
+
+МАС-адрес коммутатора S1 Fast Ethernet 0/1: 0006.2ae9.3301
+
+![10](https://github.com/user-attachments/assets/b1019310-724a-45ee-a5f8-36cebb7ea5db)
+
+МАС-адрес коммутатора S2 Fast Ethernet 0/1: 00d0.d33b.b5d8
+
+![11](https://github.com/user-attachments/assets/b96ec74b-0aa8-4d63-8d2c-46365856c1d3)
+
+
+
+
+
 
