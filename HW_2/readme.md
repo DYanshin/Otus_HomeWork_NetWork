@@ -82,16 +82,30 @@
 
 ### Шаг 2. Смотрим таблицу МАС-адресов коммутатора:
 
--Подключаемся к коммутатору S2 через консоль и входим в привилегированный режим EXEC:
+-Подключаемся к коммутатору S2 через консоль PC0 и входим в привилегированный режим EXEC:
 
 ![12](https://github.com/user-attachments/assets/77830484-1bd3-476a-bddc-d04408f6ab39)
 
 -В привилегированном режиме EXEC вводим команду show mac address-table:
 
-![13](https://github.com/user-attachments/assets/d9f8365d-1a0d-4438-8c69-81fd14eb4d5b)
+![13](https://github.com/user-attachments/assets/dbe78212-4298-43fc-bf50-9c6fd3f7db81)
 
-В таблице MAC-адресов содержаться два адреса: коммутатора S1 и PC0
+В таблице MAC-адресов содержаться два адресса: коммутатора S1 , PC0 и PC1
 
+### Шаг 3. Очищаем таблицу МАС-адресов коммутатора S2 и снова отобразите таблицу МАС-адресов.
 
+-В привилегированном режиме EXEC вводжим команду clear mac address-table dynamic:
 
+![14](https://github.com/user-attachments/assets/fa7683db-d132-4e0e-bc4f-ce8a5b74c77f)
 
+-Снова быстро вводим команду show mac address-table:
+
+![15](https://github.com/user-attachments/assets/d4614884-38c7-4d7a-8f15-7b0c380d021b)
+
+В таблице отсутствует адресс РС1
+
+-Через 10 секунд вводим команду show mac address-table:
+
+В таблице отсутствует адресс РС1
+
+![16](https://github.com/user-attachments/assets/75cdf782-50b7-4899-8b46-84e9d47dae97)
