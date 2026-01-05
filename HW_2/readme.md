@@ -126,7 +126,11 @@
 
 ![20](https://github.com/user-attachments/assets/79576e7c-8a35-4957-86e2-b11fb430543b)
 
+-Подключившись через консоль к коммутатору S2, вводим команду show mac address-table
 
+![21](https://github.com/user-attachments/assets/2fe73df1-f999-49db-88a1-0c369a8ce9bc)
 
+-На компьютере PC1 открываем командную строку и еще раз вводим команду arp -a:
 
+![22](https://github.com/user-attachments/assets/fefed0aa-e529-441d-b848-9b263b824f2d)
 
