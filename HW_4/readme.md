@@ -28,4 +28,7 @@
 ![Topology](https://github.com/user-attachments/assets/bb3a3e63-1cdb-43d4-a0c3-f3c9e6c9df82)
 
 ### Шаг 2. Настраиваем маршрутизатор
-  Назначьте имя хоста и настройте основные параметры устройства.
+  Назначаем имя хоста и настраиваем основные параметры устройства:
+
+  ![R1](https://github.com/user-attachments/assets/970113c9-21b6-45c8-b42f-43edb2ee2bff)
+
