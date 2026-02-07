@@ -45,6 +45,11 @@
   ![R5](https://github.com/user-attachments/assets/ccbdc3bf-d87b-463f-b006-066bdb182927)
 
   --Какие группы многоадресной рассылки назначены интерфейсу G0/0?
+
+    Joined group address(es):
+    FF02::1
+    FF02::1:FF00:1
+
     
 
 
