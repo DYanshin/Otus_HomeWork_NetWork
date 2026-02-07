@@ -32,3 +32,6 @@
 
   ![R1](https://github.com/user-attachments/assets/970113c9-21b6-45c8-b42f-43edb2ee2bff)
 
+  Вводим команду show ipv6 interface brief, чтобы проверить, назначен ли каждому интерфейсу корректный индивидуальный IPv6-адрес:
+
+  ![R2](https://github.com/user-attachments/assets/e0d8cdae-37c0-45b8-a0a2-214103d7adbd)
