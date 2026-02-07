@@ -40,3 +40,11 @@
 
   ![R3_link](https://github.com/user-attachments/assets/1cc4c77f-7e9e-4a85-87af-d87754792bb6)
 
+  Используем команду show ipv6 interface brief, чтобы убедиться, что локальный адрес связи изменен на fe80::1:
+
+  ![R5](https://github.com/user-attachments/assets/ccbdc3bf-d87b-463f-b006-066bdb182927)
+
+  --Какие группы многоадресной рассылки назначены интерфейсу G0/0?
+    
+
+
