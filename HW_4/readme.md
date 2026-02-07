@@ -35,3 +35,8 @@
   Вводим команду show ipv6 interface brief, чтобы проверить, назначен ли каждому интерфейсу корректный индивидуальный IPv6-адрес:
 
   ![R2](https://github.com/user-attachments/assets/e0d8cdae-37c0-45b8-a0a2-214103d7adbd)
+
+  Чтобы обеспечить соответствие локальных адресов канала индивидуальному адресу, вводим локальные адреса канала на каждом интерфейсе Ethernet на R1:
+
+  ![R3_link](https://github.com/user-attachments/assets/1cc4c77f-7e9e-4a85-87af-d87754792bb6)
+
