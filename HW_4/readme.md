@@ -98,6 +98,18 @@ S1# show sdm prefer
 
 С PC1 отправляем эхо-запрос на FE80::1. Это локальный адрес канала, назначенный G0/1 на R1:
 
+![PC1_ping_FE80](https://github.com/user-attachments/assets/2e13ba12-0583-47e3-8e5b-c309bf4a3255)
+
+Отправляем эхо-запрос на интерфейс управления S1 с PC1:
+
+![PC1_ping_S1](https://github.com/user-attachments/assets/d6c4548a-a628-434e-acbc-f2792a1d168b)
+
+Вводим команду tracert на PC1, чтобы проверить наличие сквозного подключения к PC2:
+
+
+
+
+
 
 
 
