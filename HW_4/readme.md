@@ -58,7 +58,9 @@
 
   ![R4](https://github.com/user-attachments/assets/e32eea65-d9ca-4251-b08e-a7062f538a90)
 
+  После активации IPv6-маршрутизации на R1 с помощью команды IPv6 unicast-routing параметры адреса не изменяются (повторно вводим команду ipconfig на PC2:
 
+  ![ipconfig_PC2](https://github.com/user-attachments/assets/f1a1b6bb-e02a-4593-9089-77381aff7d19)
 
     
 
