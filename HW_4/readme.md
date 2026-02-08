@@ -27,7 +27,7 @@
 
 ![Topology](https://github.com/user-attachments/assets/bb3a3e63-1cdb-43d4-a0c3-f3c9e6c9df82)
 
-### Шаг 2. Настраиваем маршрутизатор
+### Шаг 2. Настраиваем маршрутизатор (R1)
   Назначаем имя хоста и настраиваем основные параметры устройства, назначаем IPv6-адреса интерфейсам Ethernet на R1.
 
   ![R1](https://github.com/user-attachments/assets/970113c9-21b6-45c8-b42f-43edb2ee2bff)
@@ -62,6 +62,11 @@
 
   ![ipconfig_PC2](https://github.com/user-attachments/assets/f1a1b6bb-e02a-4593-9089-77381aff7d19)
 
+  Введим команду show ipv6 interface g0/0/0, чтобы узнать, какие многоадресные группы присвоены интерфейсу G0/0/0:
+
+  ![Безымянный](https://github.com/user-attachments/assets/f81e2154-aed2-445a-9296-67ecbf176bce)
+
+### Шаг 3. Настраиваем коммутатор (S1)
     
 
 
