@@ -50,7 +50,10 @@
     FF02::1
     FF02::1:FF00:1
 
-    
+  В командной строке на PC2 вводим команду ipconfig, чтобы получить данные IPv6-адреса, назначенного интерфейсу ПК.  
+
+  ![ipconfig_PC2](https://github.com/user-attachments/assets/f1a1b6bb-e02a-4593-9089-77381aff7d19)
+
 
     
 
