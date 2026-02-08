@@ -88,9 +88,11 @@ S1# show sdm prefer
 
 Назначаем Ipv6 адрес для PC1:
 
-![config_pc1](https://github.com/user-attachments/assets/551ef633-ea18-4114-8dc2-8ab10f889d30)
+![config_pc1](https://github.com/user-attachments/assets/c8c1887d-8846-4ae0-ae8c-2e91803ef2b6)
 
+Назначаем Ipv6 адрес для PC2:
 
+![config_pc2](https://github.com/user-attachments/assets/5495c3b5-0cd8-4f73-95b8-6d71d2aa2aa8)
 
 ### Шаг 5.Проверка сквозного подключения
 
