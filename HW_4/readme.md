@@ -58,7 +58,7 @@
 
   ![R4](https://github.com/user-attachments/assets/e32eea65-d9ca-4251-b08e-a7062f538a90)
 
-  После активации IPv6-маршрутизации на R1 с помощью команды IPv6 unicast-routing параметры адреса не изменяются (повторно вводим команду ipconfig на PC2:
+  После активации IPv6-маршрутизации на R1 с помощью команды IPv6 unicast-routing параметры адреса не изменяются (повторно вводим команду ipconfig на PC2):
 
   ![ipconfig_PC2](https://github.com/user-attachments/assets/f1a1b6bb-e02a-4593-9089-77381aff7d19)
 
@@ -76,7 +76,14 @@
 
 S1# show sdm prefer
 
+Затем:
+
 ![S1_SDM](https://github.com/user-attachments/assets/2d8952ea-d392-4024-a56f-26f9845f5d06)
+
+ Активируем IPv6-маршрутизацию на S1 с помощью команды IPv6 unicast-routing:
+
+ ![S1_ipv6](https://github.com/user-attachments/assets/03b27b29-4b76-44db-8eb9-b3743a1dfc16)
+
 
 
 
