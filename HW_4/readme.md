@@ -88,7 +88,7 @@ S1# show sdm prefer
 
 Назначаем Ipv6 адрес для PC1:
 
-![config_pc1](https://github.com/user-attachments/assets/c8c1887d-8846-4ae0-ae8c-2e91803ef2b6)
+![config_pc1](https://github.com/user-attachments/assets/758101b7-24eb-41da-b7bb-816daa9e5d45)
 
 Назначаем Ipv6 адрес для PC2:
 
