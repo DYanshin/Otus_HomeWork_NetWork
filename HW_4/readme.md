@@ -72,6 +72,14 @@
 
 ![S1](https://github.com/user-attachments/assets/c60ff5a7-9d52-42dd-9079-1f084eb4d793)
 
+Установливаем шаблон dual-ipv4-and-ipv6 в качестве шаблона SDM по умолчанию, выполняем следующие действия:
+
+S1# show sdm prefer
+
+![S1_SDM](https://github.com/user-attachments/assets/2d8952ea-d392-4024-a56f-26f9845f5d06)
+
+
+
 
 
 
